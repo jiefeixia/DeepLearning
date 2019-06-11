@@ -1,2 +1,2 @@
 # DeepLearning
-Realization of Deep Learning Algorithm
+Implementation of some deep learning structure
